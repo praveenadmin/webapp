@@ -10,8 +10,8 @@
      <h1 class="text-center">Welcome to</h1>
       <img src="http://www.learntek.org/wp-content/uploads/2017/08/jenkins_image.png" alt="Spidertocat"
            class="img-responsive center-block" style="width:250px"/>
-      <h1 class="text-center">My job is done with first autodeploy jenkins</h1>
-      <h2 class="text-center">Now you are with Praveen</h2>
+      <h1 class="text-center">MY first JOB is done with aUtOdEpOlYjenkins</h1>
+      <h2 class="text-center">Now you are with Praveen Goud</h2>
   </div>
 </body>
 </html>
